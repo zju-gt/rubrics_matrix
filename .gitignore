@@ -1,0 +1,6 @@
+# 可重抓的论文全文缓存（大，用 fetch_paper.sh 重建）
+papers/
+# Python venv / 缓存
+.venv/
+__pycache__/
+*.pyc
